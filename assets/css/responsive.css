@@ -1,0 +1,53 @@
+@media(max-width:991px) {
+    .min-nav {
+        background: #fff;
+        right: 0;
+        top: 55px;
+        width: 200px;
+        z-index: 11;
+        padding: 12px;
+        position: absolute;
+        border-radius: 5px;
+        box-shadow: 0px 10px 20px #0000005b;
+    }
+}
+@media(max-width:767px) { 
+    .navbar-light img {
+        width: 70px;
+    }
+}
+@media(max-width:576px) {
+    .about_us h2 {
+    font-size: 20px;
+    }
+    .about_us span {
+    font-size: 15px;
+}
+.count_info h6 {
+    font-size: 13px;
+}
+.whychoose h2 {
+    font-size: 20px;
+}
+.whychoose span {
+    font-size: 15px;
+}
+.testimonial_section h2 {
+    font-size: 25px;
+}
+.test_sec span {
+    font-size: 15px;
+}
+.cont_info a {
+    font-size: 12px;
+}
+.cont_info h4 {
+    font-size: 15px;
+}
+.ic_on img {
+    width: 30px;
+}
+.pri h6 {
+    font-size: 12px;
+}
+}
